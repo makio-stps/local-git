@@ -1,2 +1,2 @@
-template/*.json
+template/**/*.json
 setting_theme.json
