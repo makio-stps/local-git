@@ -1,2 +1,5 @@
-template/**/*.json
+# 特定のディレクトリを無視
+/template/**/*.json
+
+# 特定のファイルを無視
 setting_theme.json
